@@ -1,0 +1,8 @@
+prefix=/home/riki/Test/lidar_data_read/catkin_ws/devel
+
+Name: readFromROSBag
+Description: Description of readFromROSBag
+Version: 0.0.0
+Cflags: -I/home/riki/Test/lidar_data_read/catkin_ws/src/readFromROSBag/include
+Libs: -L/home/riki/Test/lidar_data_read/catkin_ws/devel/lib -lreadFromROSBag
+Requires: roscpp sensor_msgs
